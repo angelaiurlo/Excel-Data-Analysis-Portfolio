@@ -3,7 +3,7 @@ This repository showcases a collection of Excel portfolio projects undertaken du
 
 ## Project - Cleaning Data
 
-In this project, I cleaned the data of two sample datasets. I removed duplicate, inaccurate data, and empty rows. I dealt with inconsistencies and used the Flash Fill feature and different functions to manipulate and standardize data.
+In this project, I cleaned the data of different sample datasets. I removed duplicate, inaccurate data, and empty rows. I dealt with inconsistencies and used the Flash Fill feature and different functions to manipulate and standardize data.
 Each datasheet contains both raw and manipulated data in order to verify the process.
 
 ## Project - Charts and Dashboard
