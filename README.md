@@ -1,2 +1,4 @@
 # Excel-Data-Analysis-Portfolio
-This repository contains my data analysis projects where I have performed Data analysis tasks such as Data preprocessing, Data Cleaning, and Data Visualization.
+This repository showcases a collection of Excel portfolio projects undertaken during my exploration of advanced Excel functionalities. These projects served as invaluable learning tools, allowing me to solidify my understanding of the software's capabilities and push its boundaries.
+
+## Project - 
